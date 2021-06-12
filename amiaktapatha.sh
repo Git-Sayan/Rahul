@@ -1,2 +1,2 @@
 #! /bin/sh
-echo  " I have to be  mamush" 
+echo  " Ami mamush hote chai" 
